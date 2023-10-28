@@ -28,7 +28,7 @@
     "react-dom": "18.2.0"
   },
   "engines": {
-    "npm": ""
+    "yarn": ""
   },
   "devDependencies": {
     "@babel/core": "^7.22.1",
